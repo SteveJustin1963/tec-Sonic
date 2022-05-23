@@ -7,7 +7,7 @@
 ### project
 Let's be practical its not possible to do most Dr Who things, so we will be practical and make achievable thing. We will used the tec-1 test and measure the setting up of some sonic devices.
 
-### 1. sonic screwdriver 
+### 1. Ultrasonic screwdriver 
 
 How do you do sonic rotation of an object? we need to focus multipe beam of ultrasound near and around the object to create a torque on the object to causes it to rotate. the phas of the waves have to spread appart.
 - multi pillar vibration https://www.nature.com/articles/micronano20151
@@ -26,25 +26,25 @@ How do you do sonic rotation of an object? we need to focus multipe beam of ultr
 
 - https://en.wikipedia.org/wiki/Piezoelectric_motor
  
-### 3. sonic transducer, for sending and receiving signals
+### 3. Ultrasonic transducer, for sending and receiving signals
 
-### 4. sonic welder, to sonic join plastics metals etc
+### 4. Ultrasonic welder, to sonic join plastics metals etc
 
-### 5. sonic drill
+### 5. Ultrasonic drill
 - https://github.com/SteveJustin1963/tec-Sonic/blob/master/docs/sonic%20drilling1.pdf 2
 
 
-### 6. sonic deterrent, 
+### 6. Ultrasonic deterrent, 
 
-### 7. sonic atomic levitation
+### 7. Ultrasonic atomic levitation
 
-### 8. sonic harmonic scattering
+### 8. Ultrasonic harmonic scattering
 
-### 9. sonic sonoluminescence, induce the release of light
+### 9. Ultrasonic sonoluminescence, induce the release of light
 
-### 10. sonic cleaning, 
+### 10. Ultrasonic cleaning, 
 
-### 11. sonic dispersion, mixing things 
+### 11. Ultrasonic dispersion, mixing things 
 
 
 
