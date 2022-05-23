@@ -5,7 +5,7 @@
 
 
 ### project
-Let's be practical its not possible to do most Dr Who things, so we will be practical and make achievable thing. We will used the tec-1 test and measure the setting up of some sonic devices.
+Let's be practical its not possible to do most Dr Who things, so we will be practical and make achievable thing. We will used the tec-1 test and measure the setting up of some Ultrasonic (> 20k Hertz) devices. 
 
 ### 1. Ultrasonic screwdriver 
 
@@ -56,6 +56,7 @@ How do you do sonic rotation of an object? we need to focus multipe beam of ultr
 
 ### Ref
 - https://en.wikipedia.org/wiki/Sonic_screwdriver
+- https://en.wikipedia.org/wiki/Ultrasound
 - 
 
 
