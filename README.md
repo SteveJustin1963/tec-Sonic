@@ -1,5 +1,6 @@
 # tec-Sonic
 
+![300px-The_Twelfth_Doctor's_Sonic_Screwdriver](https://user-images.githubusercontent.com/58069246/169831371-463ad4d4-1444-4e67-94e0-f573d4257cb6.jpg)
 
 
 
@@ -54,4 +55,7 @@ How do you do sonic rotation of an object? we need to focus multipe beam of ultr
  
 
 ### Ref
+- https://en.wikipedia.org/wiki/Sonic_screwdriver
+- 
+
 
