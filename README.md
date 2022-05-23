@@ -45,7 +45,7 @@ These are more specific functions of the sonic screwdriver:
 
 
 ### project
-TEC-1 used to test, measure and set-up sonic devices to do some of the following..later the tec1 can be disconnected.
+Let's be practical is it possible to do those things in Dr Who. so we will do some practical achievable thing. We will used the tec-1 test and measure the setting up of some sonic devices.
 
 1. sonic screwdriver, for rotation
 2. sonic transducer, for sending and receiving signals
@@ -62,3 +62,10 @@ TEC-1 used to test, measure and set-up sonic devices to do some of the following
 ### sonic screwdriver, for rotation
 
 How do you do sonic rotation of an object? we need to focus multipe beam of ultrasound near and around the object to create a torque on the object to causes it to rotate. the phas of the waves have to spread appart.
+
+for example pillar vibration https://www.nature.com/articles/micronano20151
+
+
+ 
+
+
