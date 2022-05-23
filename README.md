@@ -59,11 +59,15 @@ Let's be practical is it possible to do those things in Dr Who. so we will do so
 10. sonic dispersion, mixing things 
 
 
-### sonic screwdriver, for rotation
+### 1. sonic screwdriver 
 
 How do you do sonic rotation of an object? we need to focus multipe beam of ultrasound near and around the object to create a torque on the object to causes it to rotate. the phas of the waves have to spread appart.
 
 for example pillar vibration https://www.nature.com/articles/micronano20151
+
+### 4. sonic drill
+https://github.com/SteveJustin1963/tec-Sonic/blob/master/docs/sonic%20drilling1.pdf
+
 
 
  
