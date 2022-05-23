@@ -1,5 +1,11 @@
 # tec-Sonic
 
+### Lore
+The History of the Sonic Screwdriver in Doctor Who was introduced in 1968 in the story Fury from the Deep, and used twice more (The Dominators and The War Games) during the Second Doctor's tenure. It became a popular tool for the Third Doctor and Fourth Doctor onward. https://en.wikipedia.org/wiki/Sonic_screwdriver
+
+![300px-The_Twelfth_Doctor's_Sonic_Screwdriver](https://user-images.githubusercontent.com/58069246/169822492-68634399-dac3-4b77-9a22-db388b9acc2f.jpg)
+
+
 TEC-1 used to test, measure and set-up sonic devices to do some of the following..later the tec1 can be disconnected.
 
 1. sonic screwdriver, for rotation
