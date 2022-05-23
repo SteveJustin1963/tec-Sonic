@@ -47,25 +47,14 @@ These are more specific functions of the sonic screwdriver:
 ### project
 Let's be practical is it possible to do those things in Dr Who. so we will do some practical achievable thing. We will used the tec-1 test and measure the setting up of some sonic devices.
 
-1. sonic screwdriver, for rotation
-2. Ultrasonic Motor
-3. sonic transducer, for sending and receiving signals
-4. sonic welder, to sonic join plastics metals etc
-5. sonic drill, to remove small amounts material ahead of the tip
-6. sonic deterrent, 
-7. sonic atomic levitation
-8. sonic harmonic scattering
-9. sonic sonoluminescence, induce the release of light
-10. sonic cleaning, 
-11. sonic dispersion, mixing things 
-
-
 ### 1. sonic screwdriver 
 
 How do you do sonic rotation of an object? we need to focus multipe beam of ultrasound near and around the object to create a torque on the object to causes it to rotate. the phas of the waves have to spread appart.
-
 - multi pillar vibration https://www.nature.com/articles/micronano20151
 
+
+
+### 2. Ultrasonic Motor
 - sonic motor
   - https://en.wikipedia.org/wiki/Ultrasonic_motor
   - https://www.azooptics.com/optics-equipment-details.aspx?EquipID=402
@@ -75,14 +64,32 @@ How do you do sonic rotation of an object? we need to focus multipe beam of ultr
 ![download](https://user-images.githubusercontent.com/58069246/169829662-d555a033-e28e-4d58-a8fa-3b759b5e991f.jpg)
 ![download](https://user-images.githubusercontent.com/58069246/169829866-a391f3e2-a034-468f-976c-9a204a9b2907.jpg)
 
+- https://en.wikipedia.org/wiki/Piezoelectric_motor
+ 
+### 3. sonic transducer, for sending and receiving signals
 
-
-  - https://en.wikipedia.org/wiki/Piezoelectric_motor
-  - 
-
+### 4. sonic welder, to sonic join plastics metals etc
 
 ### 5. sonic drill
 - https://github.com/SteveJustin1963/tec-Sonic/blob/master/docs/sonic%20drilling1.pdf 2
+
+
+### 6. sonic deterrent, 
+
+### 7. sonic atomic levitation
+
+### 8. sonic harmonic scattering
+
+### 9. sonic sonoluminescence, induce the release of light
+
+### 10. sonic cleaning, 
+
+### 11. sonic dispersion, mixing things 
+
+
+
+
+
 
 
  
