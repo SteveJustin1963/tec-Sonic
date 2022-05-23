@@ -48,15 +48,16 @@ These are more specific functions of the sonic screwdriver:
 Let's be practical is it possible to do those things in Dr Who. so we will do some practical achievable thing. We will used the tec-1 test and measure the setting up of some sonic devices.
 
 1. sonic screwdriver, for rotation
-2. sonic transducer, for sending and receiving signals
-3. sonic welder, to sonic join plastics metals etc
-4. sonic drill, to remove small amounts material ahead of the tip
-5. sonic deterrent, 
-6. sonic atomic levitation
-7. sonic harmonic scattering
-8. sonic sonoluminescence, induce the release of light
-9. sonic cleaning, 
-10. sonic dispersion, mixing things 
+2. Ultrasonic Motor
+3. sonic transducer, for sending and receiving signals
+4. sonic welder, to sonic join plastics metals etc
+5. sonic drill, to remove small amounts material ahead of the tip
+6. sonic deterrent, 
+7. sonic atomic levitation
+8. sonic harmonic scattering
+9. sonic sonoluminescence, induce the release of light
+10. sonic cleaning, 
+11. sonic dispersion, mixing things 
 
 
 ### 1. sonic screwdriver 
@@ -65,11 +66,14 @@ How do you do sonic rotation of an object? we need to focus multipe beam of ultr
 
 for example pillar vibration https://www.nature.com/articles/micronano20151
 
-### 4. sonic drill
-https://github.com/SteveJustin1963/tec-Sonic/blob/master/docs/sonic%20drilling1.pdf
+### sonic motor
+- https://www.azooptics.com/optics-equipment-details.aspx?EquipID=402
 
+### 5. sonic drill
+- https://github.com/SteveJustin1963/tec-Sonic/blob/master/docs/sonic%20drilling1.pdf 2
 
 
  
 
+### Ref
 
