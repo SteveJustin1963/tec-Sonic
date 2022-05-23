@@ -64,10 +64,22 @@ Let's be practical is it possible to do those things in Dr Who. so we will do so
 
 How do you do sonic rotation of an object? we need to focus multipe beam of ultrasound near and around the object to create a torque on the object to causes it to rotate. the phas of the waves have to spread appart.
 
-for example pillar vibration https://www.nature.com/articles/micronano20151
+- multi pillar vibration https://www.nature.com/articles/micronano20151
 
-### sonic motor
-- https://www.azooptics.com/optics-equipment-details.aspx?EquipID=402
+- sonic motor
+  - https://en.wikipedia.org/wiki/Ultrasonic_motor
+  - https://www.azooptics.com/optics-equipment-details.aspx?EquipID=402
+  - Spherical ultrasonic motor https://www.youtube.com/watch?v=2BkmjnfeT1I
+
+![download](https://user-images.githubusercontent.com/58069246/169829622-31fd0ad1-6d10-492f-b2f6-dd5232198dee.jpg)
+![download](https://user-images.githubusercontent.com/58069246/169829662-d555a033-e28e-4d58-a8fa-3b759b5e991f.jpg)
+![download](https://user-images.githubusercontent.com/58069246/169829866-a391f3e2-a034-468f-976c-9a204a9b2907.jpg)
+
+
+
+  - https://en.wikipedia.org/wiki/Piezoelectric_motor
+  - 
+
 
 ### 5. sonic drill
 - https://github.com/SteveJustin1963/tec-Sonic/blob/master/docs/sonic%20drilling1.pdf 2
