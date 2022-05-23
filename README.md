@@ -12,3 +12,8 @@ TEC-1 used to test, measure and set-up sonic devices to do some of the following
 8. sonic sonoluminescence, induce the release of light
 9. sonic cleaning, 
 10. sonic dispersion, mixing things 
+
+
+### sonic screwdriver, for rotation
+
+How do you do sonic rotation of an object? we need to focus multipe beam of ultrasound to create a torque on the object to causes it to rotate. the phas of the waves have to spread appart.
