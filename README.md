@@ -9,8 +9,7 @@ Let's be practical its not possible to do most Dr Who things, so we will be prac
 
 ### 1. Ultrasonic screwdriver 
 
-How do you do sonic rotation of an object? we need to focus multipe beam of ultrasound near and around the object to create a torque on the object to causes it to rotate. the phas of the waves have to spread appart.
-- multi pillar vibration https://www.nature.com/articles/micronano20151
+How do you do sonic rotation of an object? we need to focus ( tuned air tube guide) multipe beams of ultrasound near and around the object to create a torque (exit of tube slightly bent or use aperture focus) on the object to causes it to rotate. The phase of the waves from each sound beam have to spread appart and sequenced, like in ultrasonic motors. see multi pillar vibration https://www.nature.com/articles/micronano20151
 
 
 
