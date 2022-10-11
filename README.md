@@ -37,6 +37,7 @@ How do you do sonic rotation of an object? we need to focus ( tuned air tube gui
 
 ### 6. Ultrasonic deterrent, 
 - https://www.electroschematics.com/run-dog-angry-dog-chaser/
+
 ![electronic-dog-repeller](https://user-images.githubusercontent.com/58069246/195087129-40061378-1ea2-4788-8d2c-0c73ad22ea75.gif)
 
 ### 7. Ultrasonic atomic levitation
