@@ -26,14 +26,18 @@ How do you do sonic rotation of an object? we need to focus ( tuned air tube gui
 - https://en.wikipedia.org/wiki/Piezoelectric_motor
  
 ### 3. Ultrasonic transducer, for sending and receiving signals
+![kQdsa](https://user-images.githubusercontent.com/58069246/195086376-34c8cd24-a185-4289-a060-f06008002765.jpg)
 
 ### 4. Ultrasonic welder, to sonic join plastics metals etc
+![b7bba-01-ultrasonic-welding-process](https://user-images.githubusercontent.com/58069246/195086851-9b398319-346a-438e-b398-d12682520bdb.jpg)
 
 ### 5. Ultrasonic drill
 - https://github.com/SteveJustin1963/tec-Sonic/blob/master/docs/sonic%20drilling1.pdf 2
 
 
 ### 6. Ultrasonic deterrent, 
+- https://www.electroschematics.com/run-dog-angry-dog-chaser/
+![electronic-dog-repeller](https://user-images.githubusercontent.com/58069246/195087129-40061378-1ea2-4788-8d2c-0c73ad22ea75.gif)
 
 ### 7. Ultrasonic atomic levitation
 
