@@ -41,6 +41,15 @@ How do you do sonic rotation of an object? we need to focus ( tuned air tube gui
 ![electronic-dog-repeller](https://user-images.githubusercontent.com/58069246/195087129-40061378-1ea2-4788-8d2c-0c73ad22ea75.gif)
 
 ### 7. Ultrasonic atomic levitation
+- Ultrasonic Levitation Kit DIY Ultrasonic Sensor Acoustic Levitator Suspension Ultrasonic Suspension Learning Kit for Science Exp, https://www.aliexpress.com/item/1005002741228731.html?
+
+![image](https://user-images.githubusercontent.com/58069246/195089467-c93c9f9b-9fd0-423b-ab19-293d162ac0f6.png)
+![image](https://user-images.githubusercontent.com/58069246/195089757-407b9594-ab6e-4086-936c-e1ca40cf3406.png)
+![image](https://user-images.githubusercontent.com/58069246/195089886-e1ff3eff-983b-435b-b741-95b5d3545568.png)
+![image](https://user-images.githubusercontent.com/58069246/195090046-3bde77be-63c7-4296-9a3a-8fcade113aee.png)
+![image](https://user-images.githubusercontent.com/58069246/195090565-8f216220-91ea-4269-a4cb-295616cdedd1.png)
+
+
 
 ### 8. Ultrasonic harmonic scattering
 
