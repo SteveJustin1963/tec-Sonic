@@ -54,6 +54,8 @@ How do you do sonic rotation of an object? we need to focus ( tuned air tube gui
 ### 8. Ultrasonic harmonic scattering
 
 ### 9. Ultrasonic sonoluminescence, induce the release of light
+![Sonoluminescence_Setup](https://user-images.githubusercontent.com/58069246/195092587-7eac97fb-ebf5-46b3-b159-0cc1dc087ec3.png)
+![pic_1](https://user-images.githubusercontent.com/58069246/195092704-0849636c-d8c8-4240-9ba1-31d20259e408.jpg)
 
 ### 10. Ultrasonic cleaning, 
 
@@ -70,6 +72,7 @@ How do you do sonic rotation of an object? we need to focus ( tuned air tube gui
 ### Ref
 - https://en.wikipedia.org/wiki/Sonic_screwdriver
 - https://en.wikipedia.org/wiki/Ultrasound
+- https://www.youtube.com/watch?v=puVxGnl_3y8&ab_channel=TheThoughtEmporium
 - 
 
 
